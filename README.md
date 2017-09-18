@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+大家好，我是顾枫，这是我第一次尝试使用github,希望大家多多指教，互相学习，谢谢。
+对ruby、Labview相对熟悉一点，自学了一点python、java以及VB，还需要多加学习才行。
+
 You can use the [editor on GitHub](https://github.com/gufeng1988202/fenggu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
